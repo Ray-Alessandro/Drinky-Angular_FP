@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <center>
 
-<img src="https://upcedupe-my.sharepoint.com/personal/u202124061_upc_edu_pe/Documents/Pictures/angular-logo.png" width="200" height="200" alt="Angular">
+<img src="https://cdn.discordapp.com/attachments/1151660063606448158/1151660236717953054/angular-logo.png" width="200" height="200" alt="Angular">
 
 </center>
 
@@ -21,7 +21,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
       My name is Ray Alessandro Del Carmen Zorrilla, and I am a fifth-year student in the field of Software Engineering. I enjoy spending time with my family, constantly learning, and engaging in sports. I'm passionate about my career, which equips me with the skills to tackle technological challenges. Family holds a special place in my life, and I highly value lifelong learning. Additionally, sports play an important role, both physically and mentally. I'm excited about what the future holds for my career and personal life.
     </td>
     <td>
-      <img src="https://upcedupe-my.sharepoint.com/personal/u202124061_upc_edu_pe/Documents/Pictures/Foto.png" width="250" height="250" alt="Picture">
+      <img src="https://cdn.discordapp.com/attachments/1151660063606448158/1151660327285567539/Foto.png" width="250" height="250" alt="Picture">
     </td>
   </tr>
 </table>
