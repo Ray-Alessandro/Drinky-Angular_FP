@@ -5,11 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <br>
 
-<center>
+<div align=center>
 
 <img src="https://cdn.discordapp.com/attachments/1151660063606448158/1151660236717953054/angular-logo.png" width="200" height="200" alt="Angular">
 
-</center>
+</div>
 
 
 # About Me
